@@ -10,7 +10,7 @@ using System.Windows;
 [assembly: AssemblyTitle("Hangman")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("FutureFlash94")]
 [assembly: AssemblyProduct("Hangman")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
